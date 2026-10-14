@@ -22,6 +22,8 @@ A personal workspace for ideas, tasks, calendars, and the decisions to leave thi
 
 ## Open source
 
-I work on reproducible bugs and regression tests in tools I use. Contributions will be linked here after they are submitted upstream.
+I work on reproducible bugs and regression tests in tools I use.
+
+- [Maigret #3261](https://github.com/soxoj/maigret/pull/3261) — submitted a fix for literal regex characters in profile URL templates, with regression tests.
 
 If you try TodoTodoList, a concrete example of what helped or got in your way is welcome in the issue tracker.
